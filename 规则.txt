@@ -1,3 +1,4 @@
 命名规则
     网页名称以“<something> | FuSilent”命名
     引用自身网站使用“https://fu-silent.github.io/<something>”
+    <h5><a href="#回到顶部">回到顶部</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#" target="_self">回到上级页面</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://fu-silent.github.io" target="_self">回到首页</a></h5>
